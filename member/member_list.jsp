@@ -28,7 +28,7 @@
 		MemberBean member=(MemberBean)boardList.get(i);
 	%>
 	<tr>
-		<td><%=member.getId() %></td>
+		<td><a href='MemberDetailAction.me?id=<%=member.getId() %>'><%=member.getId() %></a></td>
 		<td><%=member.getPw() %></td>
 		<td><%=member.getName() %></td>
 		<td><%=member.getGender() %></td>

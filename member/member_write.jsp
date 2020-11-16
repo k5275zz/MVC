@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>회원가입 폼</h1>
-<form action="MemberAddAction.me" method="post">
+<form action="../MemberAddAction.me" method="post">
 	<table border="1">
 		<tr>
 			<td>아이디</td>
