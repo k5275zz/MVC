@@ -1,4 +1,4 @@
-# MVC
+# MVCJoin
 
 <h2>간단한 mvc 모델2 방식의 회원관리 crud게시판</h2><br>
 <hr>
